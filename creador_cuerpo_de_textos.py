@@ -1,6 +1,3 @@
-"""
-PROPUESTA DE INTERACCION
-"""
 
 #!/usr/bin/env python
 # coding: utf-8
