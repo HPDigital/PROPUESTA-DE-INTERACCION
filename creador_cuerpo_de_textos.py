@@ -288,10 +288,10 @@ def generar_resumenes_desde_json(
 if __name__ == "__main__":
     # Ejemplo de JSON que respeta la estructura del índice
     json_data = {
-        "titulo": "PROPUESTA DE INTERACCIÓN ACADÉMICA ENTRE LA UNIVERSIDAD CATÓLICA BOLIVIANA Y EL SECTOR EMPRESARIAL DE COCHABAMBA",
+        "titulo": "PROPUESTA DE INTERACCIÓN ACADÉMICA ENTRE LA UNIVERSIDAD Y EL SECTOR EMPRESARIAL",
         "indice": {
             "1. Introducción": {
-                "1.1 Presentación de la Carrera y su Alineación con el Desarrollo Empresarial de Cochabamba": "Contenido de la sección 1.1",
+                "1.1 Presentación de la Carrera y su Alineación con el Desarrollo Empresarial": "Contenido de la sección 1.1",
                 "1.2 Importancia de la Relación entre la Academia y la Empresa": "Contenido de la sección 1.2",
                 "1.3 Metodología Utilizada para el Diagnóstico del Sector Empresarial": "Contenido de la sección 1.3"
             },
